@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PROCLOG")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Allstate Insurance Company")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PROCLOG")]
-[assembly: AssemblyCopyright("Copyright © Allstate Insurance Company 2018")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
